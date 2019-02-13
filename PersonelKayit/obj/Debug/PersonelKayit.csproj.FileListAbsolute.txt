@@ -1,0 +1,11 @@
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\PersonelKayit\PersonelKayit\bin\Debug\PersonelKayit.exe.config
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\PersonelKayit\PersonelKayit\bin\Debug\PersonelKayit.exe
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\PersonelKayit\PersonelKayit\bin\Debug\PersonelKayit.pdb
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csprojResolveAssemblyReference.cache
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.Properties.Resources.resources
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csproj.GenerateResource.Cache
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.exe
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.pdb
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.Istatistik.resources
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.AnaForm.resources
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.Login.resources
